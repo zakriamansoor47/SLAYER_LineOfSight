@@ -2,7 +2,7 @@
 Check if player 2 is in line of sight of player 1
 
 ## Command
-```json
+```c#
 css_los // Check Los between the First two random players (Only for ROOT admin)
 ``` 
 # Donation
